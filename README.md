@@ -1,4 +1,4 @@
-Oi! 👋
+Oi, tudo bem? 👋
 
 - 📚 Estudante de Ciências e Tecnologia na UFABC
 - 🌱 Estudando HTML, CSS, JavaScript, ReactJS
