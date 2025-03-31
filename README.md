@@ -1,6 +1,6 @@
 Olá, sou a Mariana! 👋
 
-- 📚 Estudante de Ciências e Tecnologia na UFABC
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas na FATEC
 - 🌱 Estudando HTML, CSS, JavaScript, ReactJS
 - 📫 Me encontre em - linkedin: mariana-agostinelli
 
